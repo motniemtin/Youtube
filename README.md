@@ -125,7 +125,7 @@ $videoId = Youtube::parseVidFromURL('https://www.youtube.com/watch?v=moSFlvxnbgk
 // result: moSFlvxnbgk
 ```
 
-**Basic Search Pagination**
+# Basic Search Pagination
 ```php
 // Set default parameters
 $params = [
